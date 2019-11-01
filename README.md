@@ -104,12 +104,12 @@ Then we dove in a little deeper and learned about functions parameters. Now exam
 We can define more than one parameter in a function definition, we simply add more arguments when we call the function, we match the number and order of arguments and parameters.
 
 Lastly, I took my quiz for chapter 4:
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.56.42%20PM.png)
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.57.32%20PM.png)
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.58.28%20PM.png)
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.00.17%20PM.png)
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.01.17%20PM.png)
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.02.55%20PM.png)
+![1](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.56.42%20PM.png)
+![2](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.57.32%20PM.png)
+![3](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.58.28%20PM.png)
+![4](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.00.17%20PM.png)
+![5](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.01.17%20PM.png)
+![6](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.02.55%20PM.png)
 
 **week seven**
 
@@ -117,19 +117,19 @@ This is the start of chapter 5 and where we learn about loops. One of the keywor
 ![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.13.23%20PM.png)
 
 You can also add breaks in loops like in this example:
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.15.26%20PM.png)
+![breaks](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.15.26%20PM.png)
 
 Basically the break just ends the current loop and jumps to the statement directly after it. Then, there is a 'continue' statement that ends the current iteration and jumps to the top of the loop and starts the next iteration. For example, 
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.15.26%20PM.png)
+![continue](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.15.26%20PM.png)
 
 Since we talked about indefinte loops, we have to talk about definte loops. we use the "for" construct. And it's more predictable; and it's easier even to validate them because we have a set of things that we're going to go through, and it might be a lot, but we're going to go through all the things in the set. So here's a little loop, the for loop. So the for key – the for is the keyword. And so, while was the keyword for indefinite loops, and for is the key word for definite loops.
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.21.50%20PM.png)
+![definite loops](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.21.50%20PM.png)
 
 in section 3 of chapter 5 we learned how to grab the largest number from a list using indefinite loops, here is an example: 
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.25.04%20PM.png)
+![largest](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.25.04%20PM.png)
 
 Lastly, we talked about loops idioms. Boolean is another type of a variable. You've got integer variables, you've got string variables, you've got floating point variables. Boolean is another kind of variable. Boolean is a kind of variable that either has the value True or False, that's it, it can only have two. 
-![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.29.04%20PM.png)
+![boolean](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.29.04%20PM.png)
 
 
 **this is the end of PythonForEverbody :(**
