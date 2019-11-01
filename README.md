@@ -84,3 +84,61 @@ Lastly I took chapter 3 quiz:
 ![quiz3](https://user-images.githubusercontent.com/54412549/66152804-4556ca80-e5e8-11e9-9047-c4188e5bc659.png)
 ![quiz3](https://user-images.githubusercontent.com/54412549/66152812-47208e00-e5e8-11e9-8dc8-b502851af43d.png)
 ![quiz3](https://user-images.githubusercontent.com/54412549/66152817-48ea5180-e5e8-11e9-8577-9d980a06422f.png)
+
+**week six**
+
+this week is the start of chapter four, Sequential, conditional, iterations, and then store and reuse. def is the keyword, it ends in a colon, just like lots of things that start an indented block.Then after the def function coems the parameters that will be stored inside the parentheses. Basically, these functions are used so that we don't have to reuse code, we can just call it whenever we need it. 
+
+Here is an example:
+![screenshot1](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.33.59%20PM.png)
+
+If you dont use the call funtion, the code WILL NOT show up. For example, in this program the 'lyrics' are not printed because the function was never called. 
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.42.55%20PM.png)
+
+Here the lyrics ARE called into because the call statement was added. 
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.44.57%20PM.png)
+
+Then we dove in a little deeper and learned about functions parameters. Now example really helped me understand how a parameter works. A parameter is really just a variable used to access arguments in a function. 
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.47.28%20PM.png)
+
+We can define more than one parameter in a function definition, we simply add more arguments when we call the function, we match the number and order of arguments and parameters.
+
+Lastly, I took my quiz for chapter 4:
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.56.42%20PM.png)
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.57.32%20PM.png)
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%208.58.28%20PM.png)
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.00.17%20PM.png)
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.01.17%20PM.png)
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.02.55%20PM.png)
+
+**week seven**
+
+This is the start of chapter 5 and where we learn about loops. One of the keywords is the while keyword and the for keyword. These loops are called indefinite loops. So while is a keyword and this is like an if statement, this is a question. Is n greater than 0? That's leads to a true or false answer. And if it is true, this code executes and if it is not true, the code is skipped. And in that respect, it is exactly the same as an if. You could say if n was greater than 0, run this code, otherwise skip this code. So if it's true in this case, n is 5, so it is true. So it runs this. It prints out 5, which prints that out and then subtracts 1 from n, which makes it 4. But with the while statement, it goes back up again.
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.13.23%20PM.png)
+
+You can also add breaks in loops like in this example:
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.15.26%20PM.png)
+
+Basically the break just ends the current loop and jumps to the statement directly after it. Then, there is a 'continue' statement that ends the current iteration and jumps to the top of the loop and starts the next iteration. For example, 
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.15.26%20PM.png)
+
+Since we talked about indefinte loops, we have to talk about definte loops. we use the "for" construct. And it's more predictable; and it's easier even to validate them because we have a set of things that we're going to go through, and it might be a lot, but we're going to go through all the things in the set. So here's a little loop, the for loop. So the for key – the for is the keyword. And so, while was the keyword for indefinite loops, and for is the key word for definite loops.
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.21.50%20PM.png)
+
+in section 3 of chapter 5 we learned how to grab the largest number from a list using indefinite loops, here is an example: 
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.25.04%20PM.png)
+
+Lastly, we talked about loops idioms. Boolean is another type of a variable. You've got integer variables, you've got string variables, you've got floating point variables. Boolean is another kind of variable. Boolean is a kind of variable that either has the value True or False, that's it, it can only have two. 
+![](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.29.04%20PM.png)
+
+
+**this is the end of PythonForEverbody :(**
+
+
+
+
+
+
+
+
+
