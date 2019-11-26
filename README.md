@@ -134,14 +134,39 @@ in section 3 of chapter 5 we learned how to grab the largest number from a list 
 Lastly, we talked about loops idioms. Boolean is another type of a variable. You've got integer variables, you've got string variables, you've got floating point variables. Boolean is another kind of variable. Boolean is a kind of variable that either has the value True or False, that's it, it can only have two. 
 ![boolean](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-10-31%20at%209.29.04%20PM.png)
 
+**week eight**
 
-**this is the end of PythonForEverbody :(**
+This week I started a PyCharm project that includes all the code I've learned from Python for Everybody. I worked on chapters 3-5 because the first two chapters I didn't really learn any actual code. I put all this code into one project so I can really track my improvement through-out the course. I spent about an hour an a half settings this up. Making a new PyCharm project refreshed my memory on how to actually make a PyCharm project because, I only ever made one during class for our integration project. I never did it on my own so, now I am confident in my Pycharm skills. 
+Link to repository with my code from pycharm: https://github.com/hurley7830/PythonForEverybodyCode
+**week nine**
 
+this week I finished writing all my code into my Pycharm Project and then, I used the editor to make sure my code was all formatted correctly. The code doesn't output nicely for someone else to understand but, the code I wrote with my comments will help me to have all my code in one spot and understand what I learned from this course. This took me about 2 hours to complete.
+Link to repository with my code from pycharm: https://github.com/hurley7830/PythonForEverybodyCode
 
+**week ten**
 
+I went ahead and continued studying on my own using the knowledge I learn from the Python for Everybody course. I used W3Schools to review and expand my knowledge of Python. This week, I specifically looked at Tuples because I never learned it in class nor the course. A tuple is a collection which is ordered and unchangeable. In Python tuples are written with round brackets.You can access tuple items by referring to the index number, inside square brackets. Once a tuple is created, it is unchangeable.
 
+**Negative Indexing:** means beginning from the end, -1 refers to the last item, -2 refers to the second last item etc.
+**Range of Indexes:** You can specify a range of indexes by specifying where to start and where to end the range. When specifying a range, the return value will be a new tuple with the specified items.
+**Change Tuple Values:** Once a tuple is created, you cannot change its values. Tuples are unchangeable, or immutable as it also is called. But there is a workaround. You can convert the tuple into a list, change the list, and convert the list back into a tuple.
+**Tuple Methods:** Python has 2 built in functions you can use on Tuples; 
+                   count():Returns the number of times a specified value occurs in a tuple
+                   index():Searches the tuple for a specified value and returns the position of where it was found
+also, len() can be used to output how many items are in a tuple.
 
+this took me about 2 hours
+Link to repository with my code from pycharm: https://github.com/hurley7830/PythonForEverybodyCode
 
+**week eleven**
 
+This week I decided to dive more into Try... Except's in Python. We learned a little in class but I used W3Schools to help expand my knowledge of them. The try block lets you test a block of code for errors. The except block lets you handle the error. The finally block lets you execute code, regardless of the result of the try- and except blocks. When an error occurs, or exception as we call it, Python will normally stop and generate an error message. These exceptions can be handled using the try statement. You can define as many exception blocks as you want, e.g. if you want to execute a special block of code for a special kind of error.
+**Raise and exception:** As a Python developer you can choose to throw an exception if a condition occurs. To throw (or raise) an exception, use the raise keyword.
+This took me an hour and a half 
+Link to repository with my code from pycharm: https://github.com/hurley7830/PythonForEverybodyCode
 
+**week tweleve**
 
+This week I focused on the string formatting section in W3Schools. The format() method allows you to format selected parts of a string. Sometimes there are parts of a text that you do not control, maybe they come from a database, or user input? To control such values, add placeholders (curly brackets {}) in the text, and run the values through the format() method. If you want to use more values, just add more values to the format() method. You can use index numbers (a number inside the curly brackets) to be sure the values are placed in the correct placeholders. You can also use named indexes by entering a name inside the curly brackets, but then you must use names when you pass the parameter values. 
+I worked on this for 2 hours
+Link to repository with my code from pycharm: https://github.com/hurley7830/PythonForEverybodyCode
