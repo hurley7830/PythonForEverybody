@@ -23,6 +23,7 @@ Perspective Employers - artifact will be added to my student portfolio which cou
 I learned that our job as programmers is to act as intermediaries between the hardware and the user to build something.The key difference between writing a program for someone else and writing a program for yourself to consume is the rigor. You don't have to be such a professional just to write code that you can use yourself. If it works and it gets you the data you want, then job done. If you want to become a professional programmer, then you have to study how to be more precise and more engineering.
 
 I learned about the central processing unit, main memory, secondary memory unit, and input/output devices. Input and Output devices are things such as the keyboard, mouse and the computer screen. The CPU is a highly sophisticated circuit with millions of transistors on it, and you've probably heard that, millions of transistors. It runs maybe three billion instructions per second. When you write a program, you create a file on the secondary memory, like a Python file, and then at some point that is loaded into the main memory, and translated. Then when the CPU says what next, your program feeds its first instruction. Then the CPU feeds the second instruction, third instruction, fourth instruction. It's called the fetch-execute cycle. These two parts, the CPU and the main memory, are what participate.
+![CPU diagram](https://www.csetutor.com/wp-content/uploads/2018/01/cpu.png)
 
 Then I learned a little about python, Guido van Rossum, over 20 years ago, invented this Python language. Python turns out to be such a perfect language to use as your first programming language. I also learned that syntax error doesn't mean that Python thinks you're bad. It is not a judgement of your potential to be a programmer. Syntax error means Python is lost.
 
@@ -31,6 +32,8 @@ I worked for about 2 hours this week.
 **week two**
 
 I basically just learned how to download python into different computer systems like Windows and Apple. If we cant download python for some reason they gave us access to a "python playground" to use through out the course. They teach you how to switch from python 2 to python 3 so you can submit programs for the course but, also, switch between them both to see the difference. If you ever need help with your code you can sort of leave your code in the Playground then, you ask the teaching assistant, and then they go take a look at your code and give you some answers.
+
+Link to download Python on MAC: https://www.python.org/downloads/mac-osx/
 
 **week three**
 
