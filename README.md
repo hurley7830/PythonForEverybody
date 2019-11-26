@@ -170,3 +170,171 @@ Link to repository with my code from pycharm: https://github.com/hurley7830/Pyth
 This week I focused on the string formatting section in W3Schools. The format() method allows you to format selected parts of a string. Sometimes there are parts of a text that you do not control, maybe they come from a database, or user input? To control such values, add placeholders (curly brackets {}) in the text, and run the values through the format() method. If you want to use more values, just add more values to the format() method. You can use index numbers (a number inside the curly brackets) to be sure the values are placed in the correct placeholders. You can also use named indexes by entering a name inside the curly brackets, but then you must use names when you pass the parameter values. 
 I worked on this for 2 hours
 Link to repository with my code from pycharm: https://github.com/hurley7830/PythonForEverybodyCode
+
+
+
+I'm having trouble sending my commits to github so I also put the code below:
+
+"""Python For Everybody week 3 code"""
+
+# variables and data types
+print("Hello World!")
+
+x = 5 + 9
+print(x)
+
+y = ("5 + 9")
+print(y)
+
+"""Python For Everybody week 4 code"""
+
+# Booleans
+x = int(input("please enter a number for x: "))
+if x > 5:
+    print("x is greater than 5")
+elif x == 5:
+    print("x is equal to 5")
+else:
+    print("x is less than 5")
+
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
+
+"""Python For Everybody week 5 code"""
+
+x = 1  # int
+y = 3.7  # float
+z = 1j  # complex
+
+# For Loops
+# Print all numbers from 0 to 7, and print a message when the loop has ended
+for x in range(8):
+    print(x)
+else:
+    print("All Done!")
+
+"""Python For Everybody week 6 code"""
+
+
+# Function Call
+def my_function():
+    print("Hello User!")
+
+
+my_function()
+
+
+# Parameters
+def hurley_fam(fname):
+    print(fname + " Hurley")
+
+
+hurley_fam("Rylie")
+hurley_fam("Paul")
+hurley_fam("Jennifer")
+
+
+# Arguements
+def middle_child(child3, child2, child1):
+    print("The middle child is " + child3)
+
+
+middle_child(child1="Sean", child2="Flynn", child3="Jacob")
+
+"""Python For Everybody week 7 code"""
+
+"""
+code pulled from W3schools
+__author__ = w3Schools
+"""
+
+# Print a message once the condition is false
+i = 1
+while i < 6:
+    print(i)
+    i += 1
+else:
+    print("i is no longer less than 6")
+
+# Exit the loop when i is 3
+i = 1
+while i < 6:
+    print(i)
+    if i == 3:
+        break
+    i += 1
+
+"""Tuples"""
+
+# basic tuple
+thistuple = ("thing1", "thing2", "thing3")
+print(thistuple)
+
+# two ways to print the third item in the tuple
+thistuple = ("thing1", "thing2", "thing3")
+print(thistuple[2])
+
+thistuple = ("thing1", "thing2", "thing3")
+print(thistuple[-1])
+
+# return the 3rd, 4th, and 5th item
+thistuple = ("thing1", "thing2", "thing3, thing4, thing5")
+print(thistuple[2:5])
+
+# Check if item exsist in the tuple
+thistuple = ("thing1", "thing2", "thing3")
+if "thing1" in thistuple:
+    print("Yes, 'thing1' is in the tuple")
+
+"""
+Try... Except
+__author__ = W3Schools
+"""
+
+# basic example
+try:
+    print(x)
+except:
+    print("An exception occurred")
+
+# finally
+try:
+    print(x)
+except:
+    print("Something went wrong")
+finally:
+    print("The 'try except' is finished")
+
+# raise an exception
+x = -1
+
+if x < 0:
+    raise Exception("Sorry, no numbers below zero")
+
+"""
+String format
+__author__ = w3Schools
+"""
+
+# basic example
+price = 49
+txt = "The price is {} dollars"
+print(txt.format(price))
+
+# more values
+print(txt.format(price, itemno, count))
+
+# more placeholders
+quantity = 3
+itemno = 567
+price = 49
+myorder = "I want {} pieces of item number {} for {:.2f} dollars."
+print(myorder.format(quantity, itemno, price))
+
+# index numbers
+quantity = 3
+itemno = 567
+price = 49
+myorder = "I want {0} pieces of item number {1} for {2:.2f} dollars."
+print(myorder.format(quantity, itemno, price))
