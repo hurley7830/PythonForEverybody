@@ -28,7 +28,7 @@ I learned about the central processing unit, main memory, secondary memory unit,
 Then I learned a little about python, Guido van Rossum, over 20 years ago, invented this Python language. Python turns out to be such a perfect language to use as your first programming language. I also learned that syntax error doesn't mean that Python thinks you're bad. It is not a judgement of your potential to be a programmer. Syntax error means Python is lost.
 
 I worked for about 2 hours this week.
-![test](file:///Users/ryliehurley/Desktop/Screen%20Shot%202019-12-12%20at%2011.19.13%20AM.png)
+
 
 **week two**
 
